@@ -1,0 +1,12 @@
+{
+  "name": "game-starter",
+  "version": "1.0.0",
+  "description": "2D canvas game starter with engine, touch controls, and a server-side leaderboard.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
